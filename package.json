@@ -1,5 +1,5 @@
 {
-  "name": "react-app-sample",
+  "name": "react-bootstrap-sample",
   "version": "1.0.0",
   "description": "Sample React Application",
   "main": "/src/client/app/js/login/HomePage.js",
